@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Krish Khinchi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F643451865504790507%2F&psig=AOvVaw2UqzWgTGjr_F35OiA8RTdG&ust=1731423430969000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDb1JLF1IkDFQAAAAAdAAAAABAh">
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/643451865504790507/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishhackz&label=Profile%20views&color=0e75b6&style=flat" alt="krishhackz" /> </p>
 
