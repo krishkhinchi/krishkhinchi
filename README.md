@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/643451865504790507/">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishhackz&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
 
 - 🌱 I’m currently learning **MERN and Competitive Programming**
 
