@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishkhinchi&show_icons=true&locale=en" alt="krishkhinchi" /></p>
 
-<p><img align="center" src="https://camo.githubusercontent.com/2fc591b70093efad2592dde32cdd1189a8915dbcee5e54d1183162236b952dfd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6b726973686b68696e63686926" alt="krishkhinchi"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&" alt="krishkhinchi" /></p>
