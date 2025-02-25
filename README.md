@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
 
-- 🌱 I’m currently focus on **MERN and Competitive Programming**
+- 🌱 I’m currently working on [Odoo Clone](https://github.com/krishkhinchi/Odoo_Clone.git)
 
 - 📝 I regularly write articles on [https://substack.com/@krishhackz](https://substack.com/@krishhackz)
 
