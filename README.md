@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> </p>
 
-- 🌱 I’m currently learning Data Structures and Algorithms(DSA)
+- 🌱 I’m currently learning **Data Structures and Algorithms(DSA)**
 
 - 📝 I regularly write articles on [https://substack.com/@krishhackz](https://substack.com/@krishhackz)
 
