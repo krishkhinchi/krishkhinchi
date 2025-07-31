@@ -43,12 +43,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake.svg" />
 </picture>
 
-<details open>
-<summary>GitHub Contribution Chart</summary>
+## 📈 GitHub Contribution Chart
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
 </p>
-</details>
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishkhinchi&show_icons=true&locale=en&layout=compact" alt="krishkhinchi" /></p>
@@ -59,5 +57,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishkhinchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
