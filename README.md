@@ -43,11 +43,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=krishkhinchi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 Github Snake
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/github-snake.svg" />
 </picture>
+-->
 
 ## 📈 GitHub Contribution Chart
 <p align="center">
@@ -63,3 +65,14 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishkhinchi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
