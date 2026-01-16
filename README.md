@@ -37,9 +37,19 @@
 ![](https://github-profile-trophy.vercel.app/?username=krishkhinchi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 GitHub Contribution Chart
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
-</p>
+</p> -->
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=krishkhinchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=C9D1D9)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)
+
+</div>
 
 # 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&" alt="krishkhinchi" /></p>
