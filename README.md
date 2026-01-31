@@ -16,12 +16,15 @@
 
 - 📫 How to reach me **krishhackz.in@gmail.com**
 
+<br>
 
-<h2 align="left">🎖️ LeetCode Badges<h2>  
+## 🎖️ LeetCode Badges  
 <p align="center">
   <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="krish" height="150" width="150" /></a>
   <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="krish" height="150" width="150" /></a>
+  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="krish" height="150" width="150" /></a>
 </p>
+<br>
 
 ## 🏆 GitHub Trophies
 <a href="https://github.com/krishkhinchi"> <div align=center>
