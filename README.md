@@ -23,6 +23,7 @@
   <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="krish" height="150" width="150" /></a>
   <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="krish" height="150" width="150" /></a>
   <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="krish" height="150" width="150" /></a>
+    <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="krish" height="150" width="150" /></a>
 </p>
 <br>
 
