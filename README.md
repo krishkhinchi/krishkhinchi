@@ -15,7 +15,6 @@
 - 💬 Ask me about **C++, JavaScript and MERN Stack**
 
 - 📫 How to reach me **krishhackz.in@gmail.com**
-
 <br>
 
 ## 🎖️ LeetCode Badges  
