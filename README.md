@@ -1,51 +1,93 @@
-<a href="https://www.linkedin.com/in/krishkhinchi/"><img src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/main/src/textAnimation.svg" /></a>
+<div align="center">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<br>
+<a href="https://www.linkedin.com/in/krishkhinchi/">
+  <img src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/main/src/textAnimation.svg" alt="Typing SVG" />
+</a>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20views&color=0e75b6&style=flat" alt="krishkhinchi" /> 
-    <img src="https://img.shields.io/github/stars/krishkhinchi?label=Stars&style=social" alt="GitHub Stars"/>
+</div>
+
+
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="coding gif"/>
+
+<p>
+    <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/krishkhinchi?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms(DSA)**
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
+- 📝 Regularly solving problems on [LeetCode](https://leetcode.com/krishkhinchi)
+- 💬 Ask me about **C++, JavaScript, MERN Stack**
+- 📫 Reach me at **krishhackz.in@gmail.com**
 
-- 📝 I regularly solve problem on [Leetcode](https://leetcode.com/krishkhinchi)
+<br clear="right"/>
 
-- 💬 Ask me about **C++, JavaScript and MERN Stack**
+---
 
-- 📫 How to reach me **krishhackz.in@gmail.com**
-<br>
-
-## 🎖️ LeetCode Badges  
-<p align="center">
-  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="krish" height="150" width="150" /></a>
-  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="krish" height="150" width="150" /></a>
-  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/1.gif" alt="krish" height="150" width="150" /></a>
-  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/100.gif" alt="krish" height="150" width="150" /></a>
-  <a href="https://leetcode.com/krishkhinchi" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="krish" height="150" width="150" /></a>
-</p>
-<br>
-
-## 🏆 GitHub Trophies
-<a href="https://github.com/krishkhinchi"> <div align=center>
-  ![](https://github-trophies.vercel.app/?username=krishkhinchi&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-  </div>
-</a><br>
-
-## 📈 GitHub Contribution Chart
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph-dark.svg">
- <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
- <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
-</picture>
+# 🎖️ LeetCode Badges
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" alt="badge"/>
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=krishkhinchi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=C9D1D9)
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120" alt="badge"/>
+</a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700)
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="120" alt="badge"/>
+</a>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=krishkhinchi&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph-dark.svg">
+  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)](https://github.com/krishkhinchi)
 
 </div>
