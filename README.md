@@ -72,6 +72,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
 </picture>
 
+<div align="center"><br>
+
+[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)](https://github.com/krishkhinchi)
+
+</div>
+
 ---
 
 # 📊 GitHub Stats
@@ -79,15 +85,5 @@
 <div align="center">
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700" />
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)](https://github.com/krishkhinchi)
 
 </div>
