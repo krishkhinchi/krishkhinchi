@@ -52,6 +52,50 @@
 
 ---
 
+# 🎖️ GSSoC`26 Badges
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/187cf391-9424-4383-997b-2acfc108ec8b" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/2a31b2c3-7ca9-4df7-bc65-50770cf31890" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/b5b72892-9ca1-4cee-b07b-ef34b5db205b" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/46aaaf87-14eb-4d89-8375-66dae77503bf" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/433e6aed-9ce4-4cf7-bf26-23c5497fae5f" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/879bfb83-d3c5-40da-a4e2-234197cd2697" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/6d57b5bf-41ac-4ee7-b69a-7f3d8a45e5d6" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/19ce29d9-547c-4d3d-a2ef-3260b74ac55b" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/fe182042-9a8d-4fef-9a66-6978a2377503" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/ac9c0633-b751-4c3e-80d6-b205427d6146" width="120" alt="badge"/>
+</a>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
