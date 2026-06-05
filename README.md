@@ -94,6 +94,14 @@
   <img src="https://github.com/user-attachments/assets/ac9c0633-b751-4c3e-80d6-b205427d6146" width="120" alt="badge"/>
 </a>
 
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/c017ee12-3947-4ff9-9234-7628ba95d960" width="120" alt="badge"/>
+</a>
+
+<a href="https://gssoc.girlscript.org/profile/6a3869f0-ebe6-4b97-b0ac-5e2c4c0dbc2d">
+  <img src="https://github.com/user-attachments/assets/d40b4d04-017e-4f39-881e-bbef16f5a097" width="120" alt="badge"/>
+</a>
+
 ---
 
 # 🏆 GitHub Trophies
