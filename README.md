@@ -8,7 +8,7 @@
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="220" alt="coding gif"/>
+<img align="right" src="https://github.com/user-attachments/assets/6d5dd19b-f80d-4b46-993a-7ed96a5db51b" width="220" alt="coding gif"/>
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -116,30 +116,30 @@
 
 # 📈 Contribution Graph
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph-dark.svg">
-  
+
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
   
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
 <div align="center"><br>
 
 [![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)](https://github.com/krishkhinchi)
+  
+</div>
+<br>
+<br>
 
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishkhinchi&theme=dark&hide_border=true&background=0D1117&ring=00F700&fire=00F700&currStreakLabel=00F700" />
-
-</div>
+## 🛠️ Languages & Tools
+![Top language](https://stats.pphat.top/languages?username=krishkhinchi)
+<br/>
