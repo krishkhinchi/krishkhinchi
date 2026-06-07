@@ -116,6 +116,10 @@
 
 # 📈 Contribution Graph
 
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph-dark.svg">
   
