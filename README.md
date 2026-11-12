@@ -15,10 +15,13 @@
 <img src="https://img.shields.io/github/stars/krishkhinchi?label=Stars&style=social" alt="GitHub stars" />
 </p>
 
-- 🌱 Currently learning **Data Structures & Algorithms (DSA)**
-- 📝 Regularly solving problems on [LeetCode](https://leetcode.com/krishkhinchi)
-- 💬 Ask me about **C++, JavaScript, MERN Stack**
-- 📫 Reach me at **krishhackz.in@gmail.com**
+- 🚀 Founder @[7Blocks](https://www.7block.in/)
+  
+- 💻 Building across **SaaS, Decentralized Technologies, AI & Automation**.
+    
+- 🏆 2× National Hackathon Champion | 🌍 Open-Source Project Admin ([Kepler](https://github.com/7-Blocks/Kepler))
+    
+- 📫 Reach me at [**krish.khinchi@7block.in**](mailto:krish.khinchi@7block.in)
 
 <br clear="right"/>
 
@@ -124,22 +127,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/krishkhinchi/krishkhinchi/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
-<div align="center"><br>
-
-[![Krish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishkhinchi&theme=github-compact&hide_border=true&bg_color=0D1117&color=00F700&line=00F700&point=00F700)](https://github.com/krishkhinchi)
-  
-</div>
 <br>
 <br>
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
-
----
-
-## 🛠️ Languages & Tools
-![Top language](https://stats.pphat.top/languages?username=krishkhinchi)
-<br/>
