@@ -10,12 +10,15 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/6d5dd19b-f80d-4b46-993a-7ed96a5db51b" width="220" alt="coding gif"/>
 
-<p>
-    <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/stars/krishkhinchi?label=Stars&style=social" alt="GitHub stars" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=krishkhinchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/krishkhinchi?label=Stars&style=social" alt="GitHub Stars" />
+    <a href="https://buymeacoffee.com/7blocks">
+        <img src="https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-yellow.svg" alt="Buy Me a Coffee" />
+    </a>
 </p>
 
-- 🚀 Founder @[7Blocks](https://www.7block.in/)
+- 🚀 Founder at @[7Blocks](https://www.7block.in/)
   
 - 💻 Building across **SaaS, Decentralized Technologies, AI & Automation**.
     
@@ -150,4 +153,36 @@
 
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.youtube.com/@krish_hackz" target="_blank">
+        <img
+          src="./assets/social/Youtube_Readme.png"
+          width="100%"
+          alt="Visit my YouTube Channel"
+        />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/krish_hackz/" target="_blank">
+        <img
+          src="./assets/social/Instagram_Readme.png"
+          width="100%"
+          alt="Visit my Instagram Profile"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
