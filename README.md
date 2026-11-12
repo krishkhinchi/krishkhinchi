@@ -18,7 +18,7 @@
     </a>
 </p>
 
-- 🚀 Founder at @[7Blocks](https://www.7block.in/)
+- 🚀 Founder at [@7Blocks](https://www.7block.in/)
   
 - 💻 Building across **SaaS, Decentralized Technologies, AI & Automation**.
     
@@ -157,29 +157,40 @@
 
 ---
 
-# 🌐 Connect With Me
 
+
+# 🌐 Connect With Me
 
 <div align="center">
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="https://www.youtube.com/@krish_hackz" target="_blank">
-        <img
-          src="./assets/social/Youtube_Readme.png"
-          width="100%"
-          alt="Visit my YouTube Channel"
-        />
+        <img src="./assets/social/Youtube_Readme.png"
+             width="100%"
+             alt="YouTube" />
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="25%" align="center">
       <a href="https://www.instagram.com/krish_hackz/" target="_blank">
-        <img
-          src="./assets/social/Instagram_Readme.png"
-          width="100%"
-          alt="Visit my Instagram Profile"
-        />
+        <img src="./assets/social/Instagram_Readme.png"
+             width="100%"
+             alt="Instagram" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://www.linkedin.com/in/krishkhinchi/" target="_blank">
+        <img src="./assets/social/Linkedin_Readme.png"
+             width="100%"
+             alt="LinkedIn" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://leetcode.com/u/krishkhinchi/" target="_blank">
+        <img src="./assets/social/Leetcode_Readme.png"
+             width="100%"
+             alt="LeetCode" />
       </a>
     </td>
   </tr>
