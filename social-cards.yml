@@ -1,0 +1,22 @@
+name: Update social cards
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+  push:
+    paths: ["instagram/**", "scripts/**"]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: npm install
+      - run: node scripts/generate-cards.js
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add cards
+          git diff --cached --quiet || (git commit -m "chore: update social cards" && git push)
