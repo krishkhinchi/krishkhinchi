@@ -117,6 +117,24 @@
 
 ---
 
+# 🚀 Featured ships
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://kepler.7block.in/"><img width="1891" height="925" alt="image" src="https://github.com/user-attachments/assets/d2cd4771-75e6-42ad-9bc6-618ba65231e6" /></a><br><sup><strong>Live:</strong> kepler.7block.in</sup>
+    <td width="50%"><a href="https://aerotwin-ai.vercel.app/"><img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/4d60b5fc-9159-4ad9-97ed-0e326170bea6" />
+</a><br><sup><strong>Live:</strong> aerotwin-ai.vercel.app</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://attentionnai.vercel.app/"><img width="1891" height="946" alt="image" src="https://github.com/user-attachments/assets/6a68609b-e307-4404-9f3d-c582c235e0ec" />
+</a><br><sup><strong>Live:</strong> attentionnai.vercel.app</sup>
+    <td width="50%"><a href="https://odooclone.netlify.app/"><img width="1891" height="942" alt="image" src="https://github.com/user-attachments/assets/8e4c63db-7672-43fd-ad83-7ce1d8501477" />
+</a><br><sup><strong>Live:</strong> odooclone.netlify.app</sup></td>
+  </tr>
+</table>
+
+---
+
 # 📈 Contribution Graph
 
 <picture>
