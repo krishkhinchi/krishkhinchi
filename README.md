@@ -30,31 +30,21 @@
 
 ---
 
-# 🎖️ LeetCode Badges
+# 🚀 Featured Ships
 
-<div align="center">
-
-<a href="https://leetcode.com/krishkhinchi">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" alt="badge"/>
-</a>
-
-<a href="https://leetcode.com/krishkhinchi">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120" alt="badge"/>
-</a>
-
-<a href="https://leetcode.com/krishkhinchi">
-  <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="120" alt="badge"/>
-</a>
-
-<a href="https://leetcode.com/krishkhinchi">
-  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="120" alt="badge"/>
-</a>
-
-<a href="https://leetcode.com/krishkhinchi">
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="120" alt="badge"/>
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%"><a href="https://kepler.7block.in/"><img width="1891" height="925" alt="image" src="https://github.com/user-attachments/assets/d2cd4771-75e6-42ad-9bc6-618ba65231e6" /></a><br><sup><strong>Live:</strong> kepler.7block.in</sup>
+    <td width="50%"><a href="https://aerotwin-ai.vercel.app/"><img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/4d60b5fc-9159-4ad9-97ed-0e326170bea6" />
+</a><br><sup><strong>Live:</strong> aerotwin-ai.vercel.app</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://attentionnai.vercel.app/"><img width="1891" height="946" alt="image" src="https://github.com/user-attachments/assets/6a68609b-e307-4404-9f3d-c582c235e0ec" />
+</a><br><sup><strong>Live:</strong> attentionnai.vercel.app</sup>
+    <td width="50%"><a href="https://odooclone.netlify.app/"><img width="1891" height="942" alt="image" src="https://github.com/user-attachments/assets/8e4c63db-7672-43fd-ad83-7ce1d8501477" />
+</a><br><sup><strong>Live:</strong> odooclone.netlify.app</sup></td>
+  </tr>
+</table>
 
 ---
 
@@ -110,6 +100,34 @@
 
 ---
 
+# 🎖️ LeetCode Badges
+
+<div align="center">
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="120" alt="badge"/>
+</a>
+
+<a href="https://leetcode.com/krishkhinchi">
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="120" alt="badge"/>
+</a>
+
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -117,24 +135,6 @@
 ![](https://github-trophies.vercel.app/?username=krishkhinchi&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
-
----
-
-# 🚀 Featured ships
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://kepler.7block.in/"><img width="1891" height="925" alt="image" src="https://github.com/user-attachments/assets/d2cd4771-75e6-42ad-9bc6-618ba65231e6" /></a><br><sup><strong>Live:</strong> kepler.7block.in</sup>
-    <td width="50%"><a href="https://aerotwin-ai.vercel.app/"><img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/4d60b5fc-9159-4ad9-97ed-0e326170bea6" />
-</a><br><sup><strong>Live:</strong> aerotwin-ai.vercel.app</sup></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://attentionnai.vercel.app/"><img width="1891" height="946" alt="image" src="https://github.com/user-attachments/assets/6a68609b-e307-4404-9f3d-c582c235e0ec" />
-</a><br><sup><strong>Live:</strong> attentionnai.vercel.app</sup>
-    <td width="50%"><a href="https://odooclone.netlify.app/"><img width="1891" height="942" alt="image" src="https://github.com/user-attachments/assets/8e4c63db-7672-43fd-ad83-7ce1d8501477" />
-</a><br><sup><strong>Live:</strong> odooclone.netlify.app</sup></td>
-  </tr>
-</table>
 
 ---
 
@@ -165,30 +165,44 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center">
-      <a href="https://www.youtube.com/@krish_hackz" target="_blank">
-        <img src="./assets/social/Youtube_Readme.png"
-             width="100%"
-             alt="YouTube" />
-      </a>
-    </td>
-    <td width="25%" align="center">
-      <a href="https://www.instagram.com/krish_hackz/" target="_blank">
-        <img src="./assets/social/Instagram_Readme.png"
-             width="100%"
-             alt="Instagram" />
-      </a>
-    </td>
-    <td width="25%" align="center">
+    <td width="16.6%" align="center">
       <a href="https://www.linkedin.com/in/krishkhinchi/" target="_blank">
         <img src="./assets/social/Linkedin_Readme.png"
              width="100%"
              alt="LinkedIn" />
       </a>
     </td>
-    <td width="25%" align="center">
+    <td width="16.6%" align="center">
+      <a href="https://www.youtube.com/@krish_hackz" target="_blank">
+        <img src="./assets/social/Youtube_Readme.png"
+             width="100%"
+             alt="YouTube" />
+      </a>
+    </td>
+    <td width="16.6%" align="center">
+      <a href="https://www.instagram.com/krish_hackz/" target="_blank">
+        <img src="./assets/social/Instagram_Readme.png"
+             width="100%"
+             alt="Instagram" />
+      </a>
+    </td>
+    <td width="16.6%" align="center">
       <a href="https://leetcode.com/u/krishkhinchi/" target="_blank">
         <img src="./assets/social/Leetcode_Readme.png"
+             width="100%"
+             alt="LeetCode" />
+      </a>
+    </td>
+    <td width="16.6%" align="center">
+      <a href="https://x.com/krish_hackz/" target="_blank">
+        <img src="./assets/social/X_Readme.png"
+             width="100%"
+             alt="LeetCode" />
+      </a>
+    </td>
+    <td width="16.6%" align="center">
+      <a href="https://topmate.io/krishkhinchi" target="_blank">
+        <img src="./assets/social/Topmate_Readme.png"
              width="100%"
              alt="LeetCode" />
       </a>
