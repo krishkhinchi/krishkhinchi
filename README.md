@@ -41,8 +41,8 @@
   <tr>
     <td width="50%"><a href="https://attentionnai.vercel.app/"><img width="1891" height="946" alt="image" src="https://github.com/user-attachments/assets/6a68609b-e307-4404-9f3d-c582c235e0ec" />
 </a><br><sup><strong>Live:</strong> attentionnai.vercel.app</sup>
-    <td width="50%"><a href="https://odooclone.netlify.app/"><img width="1891" height="942" alt="image" src="https://github.com/user-attachments/assets/8e4c63db-7672-43fd-ad83-7ce1d8501477" />
-</a><br><sup><strong>Live:</strong> odooclone.netlify.app</sup></td>
+    <td width="50%"><a href="https://blueprint.7block.in"><img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/353ded50-6339-4d41-81bc-dc16e7db9845" />
+</a><br><sup><strong>Live:</strong> blueprint.7block.in</sup></td>
   </tr>
 </table>
 
